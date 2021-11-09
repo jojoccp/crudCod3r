@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Macbook",
+      "price": 12000.5
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.67
+    },
+    {
+      "name": "Geladeira",
+      "price": "1950",
+      "id": 6
+    },
+    {
+      "name": "Veio do Formulário",
+      "price": "9.99",
+      "id": 11
+    },
+    {
+      "name": "Notebook",
+      "price": "2500,19",
+      "id": 12
+    },
+    {
+      "name": "casa",
+      "price": "400.000",
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 14
+    },
+    {
+      "name": "teste",
+      "price": "100",
+      "id": 15
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 16
+    }
+  ]
+}
